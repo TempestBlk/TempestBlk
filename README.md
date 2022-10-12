@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @TempestBlk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-TempestBlk/TempestBlk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in machine learning and game development
+- 🌱 I’m currently learning intermediate Python & Dart (w/ Flutter)
+- 💞️ I’m looking to collaborate on game projects
+- 📫 You can reach me at my Discord: xk-winter#8106
